@@ -33,4 +33,12 @@
 
 ![screenShot1](assets/screenShot/screenShot1.png)
 
+3. I pushed a commit, then realized that I forgot to save some changes. So later I learned how to update the last commit (even after pushing) from ChatGPT: 
 
+**Steps:**
+
+![screenShot4](assets/screenShot/screenShot4.png)
+
+![screenShot2](assets/screenShot/screenShot2.png)
+
+![screenShot3](assets/screenShot/screenShot3.png)
