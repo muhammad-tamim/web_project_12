@@ -1,6 +1,6 @@
 ## What I Learned new While Building This Project
 
-- we annot create your own custom-named daisiUi classes (like `--color-dark1`, `--color-dark2`, etc.) but we can override DaisyUI’s built-in theme classes names (like `--color-primary`, `--color-secondary`, `--color-accent`, etc.) with our own values.
+1. we annot create your own custom-named daisiUi classes (like `--color-dark1`, `--color-dark2`, etc.) but we can override DaisyUI’s built-in theme classes names (like `--color-primary`, `--color-secondary`, `--color-accent`, etc.) with our own values.
 
 ```css
 <!-- DaisyUI Theme Customization -->
@@ -26,3 +26,11 @@
   }
 </style>
 ```
+2. I thought bg-linear-to-t from-red-500 to-green-500 means the gradient starts on the top from the red color to green color, but today I noticed that I was wrong.
+- bg-gradient-to-t means the gradient goes from bottom to top.
+- from-red-500: the start color is red-500, applied at the bottom.
+- to-green-500: the end color is green-500, applied at the top.
+
+![screenShot1](assets/screenShot/screenShot1.png)
+
+
