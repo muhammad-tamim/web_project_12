@@ -1,3 +1,15 @@
+# Project Name: Justics
+
+## Project Description:
+Justice is a responsive website built with HTML, Tailwind CSS, and DaisyUI. I loved working with DaisyUI because it provided all the essential components I needed, making the development process faster and easier. This project helped me better understand theme customization, how Tailwind gradients work and how to update the last commit (even after pushing). It was a fun and valuable learning experience!
+
+## Project Demo Video: 
+
+https://github.com/user-attachments/assets/4d6bd054-6cac-4d88-9727-463f13fdf357
+
+## Live Site Link:
+https://muhammad-tamim.github.io/web_project_12/
+
 ## What I Learned new While Building This Project
 
 1. we annot create your own custom-named daisiUi classes (like `--color-dark1`, `--color-dark2`, etc.) but we can override DaisyUI’s built-in theme classes names (like `--color-primary`, `--color-secondary`, `--color-accent`, etc.) with our own values.
@@ -42,3 +54,10 @@
 ![screenShot2](assets/screenShot/screenShot2.png)
 
 ![screenShot3](assets/screenShot/screenShot3.png)
+
+---
+Thank you so much for checking out my project! If you have any suggestions or feedback, feel free to share them.
+
+### Contact With Me
+- LinkedIn: https://www.linkedin.com/in/tamim-muhammad/  
+- Gmail: contact2tamim@gmail.com
